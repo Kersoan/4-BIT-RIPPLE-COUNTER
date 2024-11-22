@@ -1,4 +1,4 @@
-# 4-BIT-RIPPLE-COUNTER
+# EX-12-4-BIT-RIPPLE-COUNTER
 
 **AIM:**
 
@@ -35,8 +35,8 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 5.Verification and Debugging: Analyze timing diagrams to ensure proper counter behavior, debug any encountered issues during simulation, and make necessary modifications to the design for optimal functionality.
 
 **PROGRAM**
-#### Developed By: Malar Mariam S
-#### Register Number: 21223230118
+#### Developed By: KERSOAN P
+#### Register Number: 212221230050
 ```
 module ripplecounter(clk, rst, count);
 input wire clk;
